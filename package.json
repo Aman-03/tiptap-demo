@@ -1,0 +1,22 @@
+{
+  "name": "my-app",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "generate": "nuxt generate",
+    "start": "nuxt start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@tiptap/pm": "^2.2.2",
+    "@tiptap/starter-kit": "^2.2.2",
+    "@tiptap/vue-2": "^2.2.2",
+    "iconoir": "^6.11.0",
+    "material-design-icons": "^3.0.1",
+    "nuxt": "^2.16.3"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@nuxtjs/vuetify": "^1.12.3"
+  }
+}
